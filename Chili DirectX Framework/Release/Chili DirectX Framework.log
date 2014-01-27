@@ -1,0 +1,15 @@
+﻿Build started 1/12/2014 1:31:13 PM.
+     1>Project "C:\Users\Azim\Desktop\Chili DirectX Framework\Chili DirectX Framework\Chili DirectX Framework.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\Chili DirectX Framework.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\Assets\Game.cpp ..\Assets\Windows.cpp
+         Game.cpp
+     1>..\Assets\Game.cpp(58): error C2065: 'y' : undeclared identifier
+     1>..\Assets\Game.cpp(58): fatal error C1903: unable to recover from previous error(s); stopping compilation
+         Windows.cpp
+     1>Done Building Project "C:\Users\Azim\Desktop\Chili DirectX Framework\Chili DirectX Framework\Chili DirectX Framework.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.11
